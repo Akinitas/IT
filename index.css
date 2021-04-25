@@ -1,0 +1,27 @@
+
+body {
+    background-color: black;
+    }
+
+h1 {
+    background-image:url("../../HTMLCSSPrework/assets/Float.jfif"); color: crimson;font-family: fantasy;
+
+}
+p {
+    color:tomato;
+}
+h2 {
+    color: rgb(57, 150, 226); border-style: double;border-color: blue; text-align: center; border-width: thick; padding: 20px;
+}
+h3{
+    color: crimson; text-align: center;background-color: black;
+}
+.Winter-fire{
+background-color:lightskyblue;
+}
+#n1{
+    color: tomato;background-color: black;
+}
+#n2{
+    color:tomato; background-color: black;
+}
